@@ -396,13 +396,13 @@ img {
   
   .icon-box {
     flex: 1;
-    background: white;
+    background: black;
     border: 1px solid #ddd;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 36px;
-    color: #333;
+    color: white;
     transition: transform 0.2s, background 0.3s;
   }
   
